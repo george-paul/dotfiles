@@ -1,7 +1,7 @@
 # dotfiles
 i3 rice (on EndeavourOS)
 
-![](/home/georgep/FILES/Keepers/Ricing/dotfiles/preview.png)
+![](preview.png)
 
 ## How to Install
 
